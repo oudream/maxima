@@ -1,0 +1,4 @@
+@appendix  Índice de Funciones y Variables
+
+@printindex fn
+
